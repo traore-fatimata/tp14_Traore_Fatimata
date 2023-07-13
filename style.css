@@ -1,0 +1,42 @@
+
+header{
+    background-image: url(fond-decran-14.jpg);
+    height: 600px;
+}
+header section nav{
+    margin-top: 0;
+    display: flex;
+    float: right;
+   /* justify-content: space-between;*/
+}
+header p{
+    font-size: 20px;
+}
+header nav a{
+    font-size: 20px;
+    color: white;
+    border-bottom: none;
+    text-decoration: solid;
+    margin-left: 20px;
+    /*display: flex;*/
+    /*justify-content: space-between*/;
+}
+.mod{
+    text-align: center;
+    margin-top: 150px;
+}
+.jj{
+    text-align: center;
+}
+.kk{
+    
+    margin-left: 250px;
+    
+}
+.ff{
+    text-align: right;
+    te
+}
+.lead{
+    color: white;
+}
